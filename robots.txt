@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://твій-домен.com/sitemap.xml
+Sitemap: https://vladkazimir23-jpg.github.io/sitemap.xml
