@@ -1,0 +1,15 @@
+travellil-site/
+│
+├── index.html
+├── about.html
+├── destinations.html
+├── contact.html
+│
+├── robots.txt
+├── sitemap.xml
+│
+├── css/
+│     └── styles.css
+│
+└── images/
+      
